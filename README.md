@@ -1,3 +1,3 @@
 # juego_de_barcos
-#hola
+#hola 2
 hola este es moi barco.....
