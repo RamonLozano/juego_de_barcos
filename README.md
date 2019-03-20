@@ -1,7 +1,2 @@
 # juego_de_barcos
-hola 5... si 5...
-
-hola este es toi barco.....
-
-
-A�ado cosas nuevas, funciones y cacas
+El juego está completo pero no se si está la versión final
